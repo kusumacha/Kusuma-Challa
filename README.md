@@ -1,6 +1,6 @@
 # Kusuma-Challa
 <p align="center">
-  <img src="banner.svg"
+  <img src="banner.svg.png"
        alt="Kusuma Challa banner"
        style="max-width:100%; width:100%; border-radius:12px;" />
 </p>
