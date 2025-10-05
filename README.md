@@ -47,7 +47,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/><br/>NumPy</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/><br/>Pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/><br/>TensorFlow</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="42"/><br/>Seaborn</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="42"/><br/>Seaborn</td>
+
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/><br/>Git</td>
   </tr>
 </table>
@@ -81,10 +82,10 @@
 - [CSS Certification – HackerRank](#)  
 - [Data Science – British Airways](#)  
 - [Oracle SQL Certification](#)  
-- [AWS Certification – In Progress](#)  
+- [AWS Certification](#)  
 - [Data Analytics Job Simulation – Deloitte](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_9x5hXNec3MJjifhxQ_1740675467776_completion_certificate.pdf)  
 - [Data Visualization – Tata](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_9x5hXNec3MJjifhxQ_1741440193026_completion_certificate.pdf)  
-- [Google Cloud Platform (GCP) – In Progress](#)  
+- [Google Cloud Platform (GCP)](#)  
 - [Forage Virtual Internship Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_9x5hXNec3MJjifhxQ_1739316751463_completion_certificate.pdf)  
 
 ---
@@ -92,10 +93,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kusuma-Challa&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusuma-Challa&layout=compact&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kusumacha&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusumacha&layout=compact&theme=transparent" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kusuma-Challa&theme=transparent" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=kusumacha&theme=transparent" height="160"/>
 </p>
