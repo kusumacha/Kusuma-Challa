@@ -10,8 +10,10 @@
 <h1 align="center">Hi, I'm Kusuma Challa 👋</h1>
 <p align="center">  
   MSc Data Science Student · Machine Learning & Data Science · Python · SQL · Deep Learning · Cloud <br/>
+  <a href="https://kusumacha.github.io/Kusuma-Challa.portfolio/)">Portfolio</a>
   <a href="mailto:kusumachalla79@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/kusuma-challa">LinkedIn</a>
+  
 </p>
 
 ---
