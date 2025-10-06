@@ -5,15 +5,12 @@
        style="max-width:100%; width:100%; border-radius:12px;" />
 </p>
 
-<!-- Circular profile image -->
-
 <h1 align="center">Hi, I'm Kusuma Challa 👋</h1>
 <p align="center">  
-  MSc Data Science Student · Machine Learning & Data Science · Python · SQL · Deep Learning · Cloud <br/>
-  <a href="https://kusumacha.github.io/Kusuma-Challa.portfolio">Portfolio</a> .
+  Data Engineer · Data Pipelines & Cloud Analytics · Python · SQL · AWS · Machine Learning <br/>
+  <a href="https://kusumacha.github.io/Kusuma-Challa.portfolio">Portfolio</a> ·
   <a href="mailto:kusumachalla79@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/kusuma-challa">LinkedIn</a>
-  
 </p>
 
 ---
@@ -22,14 +19,15 @@
 
 | | |
 |---|---|
-| **🗡️ Languages** | Python • R • SQL |
-| **🤖 ML & AI** | Machine Learning • Deep Learning • CNN • RNN • LSTMs • Transformers |
-| **📊 Data Analysis** | Hypothesis Testing • Regression • Anomaly Detection • Feature Engineering |
-| **🗄 Databases** | MySQL • Oracle SQL |
-| **☁️ Cloud** | AWS (in progress) • Google Cloud Platform (in progress) |
-| **📈 Visualization** | Power BI • Tableau • Matplotlib • Seaborn |
-| **🛠 Tools** | Jupyter • VSCode • Anaconda • Hadoop • PySpark • QGIS • GeoDa |
-| **💡 Soft Skills** | Collaboration • Problem-solving • Time management • Presentation |
+| **🗡️ Languages** | Python • SQL • R • Java |
+| **⚙️ Data Engineering** | ETL/ELT Pipelines • Apache Airflow • Data Warehousing • Data Cleaning & Transformation • Data Validation |
+| **🤖 ML & AI** | TensorFlow • Scikit-learn • XGBoost • LSTM • Prophet |
+| **📊 Analytics** | Exploratory Data Analysis • Predictive Modeling • Statistical Analysis • Time Series Forecasting • Credit Risk Modeling • Healthcare Analytics |
+| **📈 Visualization** | Power BI • Tableau • Matplotlib • Seaborn • ggplot2 |
+| **🗄 Databases** | MySQL • PostgreSQL • SQL Server • AWS RDS • Cloud Data Warehouses |
+| **☁️ Cloud** | AWS (S3, Lambda, Glue, EC2, CloudWatch) |
+| **🛠 Tools** | Flask • Jupyter Notebook • REST APIs • Git |
+| **💡 Soft Skills** | Collaboration • Problem-solving • Communication • Time management |
 
 ---
 
@@ -40,48 +38,56 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/><br/>Git</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/><br/>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42"/><br/>R</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/><br/>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/><br/>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42"/><br/>AWS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/><br/>GCP</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42"/><br/>Tableau</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/><br/>GCP</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42"/><br/>Tableau</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="42"/><br/>Power BI</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/><br/>NumPy</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/><br/>Pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/><br/>TensorFlow</td>
     <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="42"/><br/>Seaborn</td>
-
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/><br/>Git</td>
   </tr>
 </table>
 
 ---
 
 ## 🎓 Education
-- **MSc in Data Science**, University of East London (2024 – 2025)  
-- **B.Tech in Computer Science**, JNTUH College of Engineering Hyderabad (2020 – 2024)  
+- **MSc in Data Science**, University of East London (Sep 2024 – Sep 2025)  
+- **B.Tech in Computer Science**, JNTUH College of Engineering Hyderabad (Jun 2020 – Jun 2024)  
 
 ---
 
 ## 💼 Experience
-- **Front of House – Indas Pubs Ltd, London (Jul 2025 – Present)**  
-- **Front of House – Admiral Codrington, London (Dec 2024 – Jul 2025)**  
-- **Process Associate (Data Analysis & Reporting) – Nimble Property, NY (Jun 2023 – Jun 2024)**  
-- **Internship – COAPPS Healthcare Data Navigation (Mar 2024 – May 2024)**  
+- **Data Analyst – Nimble Property (Remote, NY, USA)** *(Jun 2023 – Jun 2024)*  
+  - Automated ETL workflows with Python & SQL for large financial datasets.  
+  - Built dashboards in Power BI to improve reporting efficiency.  
+  - Improved data quality by 30% through validation & transformation pipelines.  
+
+- **Data Analyst Intern – COAPPS Healthcare Data Navigation (Remote, India)** *(Mar 2024 – May 2024)*  
+  - Analyzed genomic & EHR data using Python & TensorFlow.  
+  - Built ML models for disease prediction.  
+  - Delivered healthcare insights for research and decision-making.  
+
+- **Front of House – Indas Pubs Ltd, London** *(Jul 2025 – Present)*  
+- **Front of House – Admiral Codrington, London** *(Dec 2024 – Jul 2025)*  
 
 ---
 
 ## 🚀 Projects
-- **Time Series Forecasting** – Built LSTM forecasting pipeline (MAPE 0.27%) reducing errors by 85%.  
-- **COVID-19 Mortality Study** – Statistical modeling & visualization with R & SQL.  
-- **Credit Data Classification** – Credit scoring models using Python & Scikit-learn.  
-- **Alzheimer’s Detection** – MRI image analysis with ML & feature extraction.  
+- **Sales Forecasting for Supplement Industry** – LSTM & Prophet-based forecasting (MAPE 0.27%, 85% error reduction).  
+- **COVID-19 Mortality Study** – Public health data analysis in R & SQL, visualized with ggplot2.  
+- **Credit Risk Prediction** – ML models (LogReg, XGBoost, Random Forest) for credit scoring.  
+- **Alzheimer’s Detection** – Deep learning MRI image classification with CNN + Curvelet Transform.  
+- **Comparative Forecasting Study** – Evaluated LSTM vs. SARIMA vs. Prophet for demand prediction.  
 
 ---
 
 ## 🏆 Certificates
-
 - [CSS Certification – HackerRank](#)  
 - [Data Science – British Airways](#)  
 - [Oracle SQL Certification](#)  
